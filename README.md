@@ -7,7 +7,7 @@ This website was developed in HTML and CSS using the api.darksky.net to recieve 
 
 How to View:
 
-1. follow the link 
+1. follow the link https://github.com/sean-mceachern/Weather-Report-Website
 2. click the green "Code" button
 3. "Download ZIP"
 4. navigate to the downloaded file on your computer
